@@ -133,7 +133,7 @@ existing release and roadmap process:
 
 - As today, each year has a [roadmap setting out that year's vision]. Some
   years---like 2017---the roadmap is mostly about laying down major new
-  groundwork. Some years, however, they roadmap explicitly proposes to declare a
+  groundwork. Some years, however, the roadmap explicitly proposes to declare a
   new epoch during the year.
 
 - Epoch years are focused primarily on *stabilization* and *polish*. We are
