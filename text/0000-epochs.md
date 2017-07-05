@@ -405,7 +405,7 @@ We'll wrap up with the full details of the mechanisms at play.
 [how-we-teach-this]: #how-we-teach-this
 
 First and foremost, if we accept this RFC, we should publicize the plan widely,
-including on the main Rust blog, in a style simlar to [previous posts] about our
+including on the main Rust blog, in a style similar to [previous posts] about our
 release policy. This will require extremely careful messaging, to make clear
 that epochs are *not* about breaking Rust code, but instead about providing
 compatibility indefinitely while allowing for more forms of evolution than
